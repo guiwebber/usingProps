@@ -1,0 +1,35 @@
+.topo {
+    background-color: #4d538c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.boxSigno {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    background-color: #856957;
+    margin: 20px;
+    border-radius: 5px;
+    height: 220px;
+
+}
+.nomeSigno {
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+}
+.imagemSigno {
+    width: 140px;
+}
+.periodoSigno {
+    padding: 10px;
+    color: white;
+}
+.lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
